@@ -1,8 +1,6 @@
 ## Oi, Eu sou Reinahn Morais 👋
 
 - 🏫 Graduando em Engenharia de Controle e Automação.
-- 📙 Estudando Dart/Flutter.
-- 🤖 Entusiasta do NEAT e outros algoritmos de IA.
 
 ### Linguagens que mais uso
 <div style="display: inline_block"><br>
